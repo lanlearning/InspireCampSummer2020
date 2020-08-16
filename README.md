@@ -28,7 +28,9 @@ A big part of the lessons and knowledge came from our guest speakers:
 * June 26: [Daphne Cheung](https://www.linkedin.com/in/daphnecheung1/) Data Scientist at The Walt Disney Company
 * June 29: [Madhav Thaker](https://www.linkedin.com/in/madhavthaker/) Sr. Data Scientist at The Walt Disney Company
 * July 6: [Christian Bourdeau](https://www.linkedin.com/in/christianbourdeau/) Sr. Business Analyst at Nike
-* July 9: [Grishma Jens](https://www.linkedin.com/in/grishmajena/) Advisory Data Scientist at IBM
+* July 9: [Grishma Jena](https://www.linkedin.com/in/grishmajena/) Advisory Data Scientist at IBM
+* July 14: [Cynthia Xia](https://www.linkedin.com/in/cynthia-xia/) Finance Graduate from UCR
+* July 15: [Kevin Ko](https://www.linkedin.com/in/kevko/) Software Engineer at Slack
 
 ## About Us: 
 Learn more about us on:
